@@ -10,7 +10,7 @@
 #include <asio.hpp>
 #include <asio/as_tuple.hpp>
 #include <asio/experimental/awaitable_operators.hpp>
-#include "kcp/ikcp.h"
+#include <ikcp.h>
 #include "error.hpp"
 
 namespace moon
